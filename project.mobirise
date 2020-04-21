@@ -1,0 +1,642 @@
+{
+  "settings": {
+    "name": "Green Planet",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "direct-m",
+      "title": "DirectM на русском",
+      "styling": {
+        "primaryColor": "#00710b",
+        "secondaryColor": "#A25DAE",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Ubuntu",
+        "textFont": "Ubuntu",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#101d30",
+        "#00710b",
+        "#f7f7f7",
+        "#ededed",
+        "#0b1829",
+        "#0c1c31",
+        "#0d1a2c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.3",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/green-planet-128x111.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined",
+    "uniqCompNum": 14,
+    "versionPublish": "4.11.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Green Planet",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showImage": true,
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "showArrow": true,
+            "imageSize": 80,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1-1651x1201.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "containerColor1": "#d57df7",
+            "containerColor2": "#2a1669",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0"
+          },
+          "title": "Header With Image",
+          "text": "Full-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/green-planet-1400x1216.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "form": {
+            "action": "aqualightdj@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-0"
+        },
+        {
+          "_params": {
+            "showTitles": false,
+            "showTabsList": false,
+            "showText": true,
+            "showButtons": false,
+            "tabs": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.8
+          },
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-3\" aria-expanded=\"false\">Безвременник веселый</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-3\" aria-expanded=\"false\">Подснежник широколистный</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-3\" aria-expanded=\"false\">Лилия саранка</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-3\" aria-expanded=\"false\">Лотос орехоносный</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-3\" aria-expanded=\"true\">Женьшень</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-3\">Add funds</a></li>",
+          "text1": "Ареалом растения является Дон, Волга и Предкавказье. Это травянистое многолетнее растение, которое произрастает исключительно на лесных полянах и лугах. Безвременник очень напоминает крокус. Окраска цветков варьируется от лиловой до фиолетовой. Период цветения приходится на осень. Безвременник относится к ядовитым растениям, его используют в медицинских целях. Основной причиной сокращения численности является массовый сбор на букеты. Оставшиеся в земле луковицы восстанавливаются плохо.",
+          "text2": "Растение является эндемиком центральной части Кавказа и встречается на альпийских и субальпийских лугах. Большую часть года подснежник широколистный проводит в виде луковиц под землей. Это морозостойкий вид, предпочитающий затененные места. Подснежник просыпается осенью, а весной наращивает зеленую массу. Период цветения приходится на март — апрель. Цветы источают тонкий аромат. Точная численность до сих пор не установлена. В некоторых районах виду грозит полное исчезновение.",
+          "text3": "Ареалом этого холодостойкого вида является Южная Европа и Сибирь. В естественных условиях лилия саранка растет в широколиственных лесах и на опушках. Высота ее стебля — 80 см. Цветки, окрашенные в пурпурный оттенок, имеют темные пятна. Лилия зацветает в середине лета. Распустившиеся цветы источают сладковатый аромат. К лимитирующим факторам относятся вырубка лесов, выпас скота, сбор на букеты и выкапывание луковиц для переноса на приусадебный участок.",
+          "text4": "Редкий вид из семейства лотосовых, произрастающий в реках Амурской области, Приморского края, а также по берегам Каспийского и Азовского морей. Корневища этого водного многолетнего растения погружены в ил, а листья торчат над водной поверхностью. Цветение приходится на июль — август. Розовые цветки лотоса орехоносного достигают 25 см в диаметре. Семена сохраняют всхожесть на протяжении многих лет. На сокращение численности популяции повлияло освоение пойм рек России и сильные паводки.",
+          "text5": "Узкоареальное растение, которое встречается в Приморском и Хабаровском краях. Женьшень обыкновенный растет в кедрово-широколиственных лесах и на каменистых склонах. Как правило, встречаются единичные особи, растение не образует скоплений. По форме корень этого многолетника напоминает фигуру человека. У него мощный корень, тонкий стебель, а соцветие образует зонтик. Мякоть плодов ядовита. Растение пользуется славой исцеляющего средства.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>Ареалом растения является Дон, Волга и Предкавказье. Это травянистое многолетнее растение, которое произрастает исключительно на лесных полянах и лугах. Безвременник очень напоминает крокус. Окраска цветков варьируется от лиловой до фиолетовой. Период цветения приходится на осень. Безвременник относится к ядовитым растениям, его используют в медицинских целях. Основной причиной сокращения численности является массовый сбор на букеты. Оставшиеся в земле луковицы восстанавливаются плохо.</li>",
+          "list2": "<li>Растение является эндемиком центральной части Кавказа и встречается на альпийских и субальпийских лугах. Большую часть года подснежник широколистный проводит в виде луковиц под землей. Это морозостойкий вид, предпочитающий затененные места. Подснежник просыпается осенью, а весной наращивает зеленую массу. Период цветения приходится на март — апрель. Цветы источают тонкий аромат. Точная численность до сих пор не установлена. В некоторых районах виду грозит полное исчезновение.</li>",
+          "list3": "<li>Ареалом этого холодостойкого вида является Южная Европа и Сибирь. В естественных условиях лилия саранка растет в широколиственных лесах и на опушках. Высота ее стебля — 80 см. Цветки, окрашенные в пурпурный оттенок, имеют темные пятна. Лилия зацветает в середине лета. Распустившиеся цветы источают сладковатый аромат. К лимитирующим факторам относятся вырубка лесов, выпас скота, сбор на букеты и выкапывание луковиц для переноса на приусадебный участок.</li>",
+          "list4": "<li>Редкий вид из семейства лотосовых, произрастающий в реках Амурской области, Приморского края, а также по берегам Каспийского и Азовского морей. Корневища этого водного многолетнего растения погружены в ил, а листья торчат над водной поверхностью. Цветение приходится на июль — август. Розовые цветки лотоса орехоносного достигают 25 см в диаметре. Семена сохраняют всхожесть на протяжении многих лет. На сокращение численности популяции повлияло освоение пойм рек России и сильные паводки.</li>",
+          "list5": "<li>Узкоареальное растение, которое встречается в Приморском и Хабаровском краях. Женьшень обыкновенный растет в кедрово-широколиственных лесах и на каменистых склонах. Как правило, встречаются единичные особи, растение не образует скоплений. По форме корень этого многолетника напоминает фигуру человека. У него мощный корень, тонкий стебель, а соцветие образует зонтик. Мякоть плодов ядовита. Растение пользуется славой исцеляющего средства.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisic elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-500x372.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-560x400.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-500x375.jpeg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-512x340.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs2",
+          "_anchor": "tabs2-3",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": false,
+            "showTabsList": false,
+            "showButtons": false,
+            "tabs": "5",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.8
+          },
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-4\" aria-expanded=\"false\">Меч-трава</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-4\" aria-expanded=\"false\">Водяной орех</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-4\" aria-expanded=\"false\">Самшит колхидский</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-4\" aria-expanded=\"false\">Пион тонколистный</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-4\" aria-expanded=\"true\">Фиалка надрезанная</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-4\">Add funds</a></li>",
+          "text1": "Реликтовое растение, произрастающее в европейской части России и на Кавказе. Оно получило свое название благодаря острым листьям, которые напоминают меч и обладают режущими свойствами. Трава растет по заболоченным и илистым берегам рек и озер страны. Растение вытягивается до полутора метров в высоту. Соцветие напоминает колоски, а семена разносятся водой. Точных данных о численности популяции нет. Меч-трава находится под угрозой полного исчезновения. К негативным факторам относят хозяйственное освоение водоемов, добычу торфа и пожары.",
+          "text2": "Водяной орех — травянистый однолетник, который встречается в дальневосточных реках. Этот реликтовый вид развивается исключительно в теплой воде. В слабопроточных водоемах формирует густые заросли. Глянцевые листья по форме напоминают листья березы. Белые цветки появляются в середине лета. Созревшие плоды похожи на голову чертика. Долгое время семена водного ореха массово собирали для кулинарных и медицинских целей. Сегодня растение страдает из-за загрязнения водоемов и длительных засушливых периодов. Для восстановления численности необходим контроль над состоянием популяции.<br>",
+          "text3": "Кустарниковое растение, распространенное на склонах Большого Кавказа. Его средой обитания являются влажные леса. Важную роль в развитии самшитовых рощ играет обилие тепла, влаги и света. У кустарника мелкие зеленые листья, кору покрывает зеленый мох, который выступает в качестве теплоизолятора. Во время цветения на кустах распускаются желтые цветки. Ценность представляет прочная древесина, которая под собственной тяжестью даже тонет в воде. Вырубка и экспорт негативно сказались на численности растения.<br>",
+          "text4": "Многолетнее растение, произрастающее в европейской части страны. Пион тонколистный можно встретить в степной зоне, на каменистых склонах гор, опушках и полянах. Высота растения может достигать полуметра. Листья у пиона тонкие, разделены на перья. Цветение приходится на начало мая. Окрас цветов варьируется от пурпурного до кроваво-красного. Диаметр одного цветка — до 8 см. Махровые экземпляры встречаются редко. Растение зимостойкое и засухоустойчивое, но в притененных участках плохо цветет.",
+          "text5": "На территории России вид встречается в Хакасии, Сибири и на Дальнем Востоке. Высота растения не превышает десяти сантиметров. У фиалки отсутствуют стебли, а перистые листья находятся на коротких черешках. Над листьями возвышаются цветоносы. Размер фиолетовых цветков — до 15 мм. В южных областях фиалка зацветает в июне, а в северных — не раньше августа. Вид имеет распространение на песчано-галечных берегах. Растение плохо размножается: семена вызревают не каждый год.<br>",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list2": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list3": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list4": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-500x3750.jpeg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-600x4001.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-500x332.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-600x450.jpeg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-540x389.jpeg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/card3.png",
+              "width": 600
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "tabs1",
+          "_anchor": "tabs1-4"
+        },
+        {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#00710b",
+              "border-color": "#00710b"
+            },
+            ".heading-title B": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "3",
+            "showFeaturesImages": true,
+            "iconsBgColor": "#00710b",
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-1201x1201.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.8
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "<b>Немного о нас</b>",
+          "text": "<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "На сегодняшний день, как и с самого начального момента образования, работа нашей компании заключается в рациональном решении вопроса защиты и питания растений. Мы активно ведем свою деятельность на протяжении долгого периода.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Основным жизненным кредо для нас является «Действовать во имя взаимного блага и процветания». И это далеко не пустые слова. Работая с нами, клиенты получают несказанное удовольствие, поскольку мы всегда четко выполняем свои обязательства, в указанные сроки и с наименьшими затратами.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Стабильность и рациональное развитие отношений обуславливают широкое признание и почет. Для нас крайне важно, чтобы каждый, кто хоть раз обратился в нашу компанию, навсегда остался с нами.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_name": "features4",
+          "_anchor": "features4-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "text": "<b>Мы в социальных сетях</b>",
+          "text1": "<b>Подписывайтесь и читай последние новости</b>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "follow1",
+          "_anchor": "follow1-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "overlay": false,
+            "overlayColor": "#f6f7f8",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Подпишись на наши обновления!</b>",
+          "subtitle": "Get notified about new amazing products",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Подписаться</a>",
+          "form": {
+            "action": "greenrusplanet@mail.ru",
+            "alerts": {
+              "success": "Подписка оформлена!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Введите свой Email адрес..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "subscribe1",
+          "_anchor": "subscribe1-9",
+          "_styles": {
+            ".form-control-label": {}
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "text1": "+7 910 566-66-00",
+          "text2": "+7 978 566-66-00",
+          "title1": "Республика крым",
+          "title2": "белгород",
+          "title3": "горячая линия",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"tel:8(800)566-66-00\" data-toolbar=\"-mbrBtnMove\">Позвони нам</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-a"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1651x1201.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "<b>У Вас есть вопросы?</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "<b>Пишите, мы прочтём и ответим Вам!</b>",
+          "form": {
+            "action": "greenrusplanet@mail.ru",
+            "alerts": {
+              "success": "Сообщение отправлено!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            },
+            ".form-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            },
+            "P": {
+              "color": "#fffffd"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#101d30",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2012-2020 Green Planet Russia.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-d"
+        }
+      ]
+    }
+  }
+}
